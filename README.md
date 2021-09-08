@@ -1,8 +1,8 @@
-<img src="./headerImg.png" />
+<img src="./banner.png" />
 
 <h2>💡 Proposta</h2>
 <p>
-  O início do isolamento social devido à pandemia de COVID-19 gerou um <em>aumento na procura de um companheiro</em> devido à crises sanitárias, sociais e econômicas gigantescas causadas pelos impactos diretos e indiretos da pandemia. Junto ao aumento na procura de um companheiro nesse período, muitas pessoas perderam seus empregos, e adivinhe o que aconteceu com muitos dos cães e gatos que foram adotados? <em>Foram devolvidos ou voltaram a ser abandonados</em>. Logo, <strong>com o intuito de auxiliar as organizações não governamentais que abrigam/resgatam animais resolvemos desenvolver a PetHub</strong>.
+  O isolamento social causado pela pandemia de COVID-19 gerou um <em>aumento na procura de um companheiro</em> devido às crises sanitárias, sociais e econômicas causadas pelos impactos diretos e indiretos da pandemia. No entanto, em paralelo ao aumento da procura de um companheiro nesse período, muitas pessoas perderam seus empregos, e adivinhe o que aconteceu com muitos dos cães e gatos que foram adotados? <em>Infelizmente muitos deles foram devolvidos ou voltaram a ser abandonados</em>. À vista disso, com o intuito de auxiliar as organizações não governamentais que abrigam/resgatam animais resolvemos desenvolver a <strong>PetHub</strong>.
 </p>
 <p>
   A PetHub é uma <strong>central de soluções para as ONGs de animais</strong>. Através da nossa plataforma, usuários poderão navegar entre as organizações listadas, acessando suas informações e/ou propostas, podendo adotar pets, ou contribuir financeiramente visando a continuação do trabalho da organização.
