@@ -1,4 +1,4 @@
-<img src="./headerImg.png" />
+<img src="./banner.png" />
 
 <h2>💡 Proposta</h2>
 <p>
