@@ -2,10 +2,10 @@
 
 <h2>💡 Proposta</h2>
 <p>
-  O início do isolamento social devido à pandemia de COVID-19 gerou um _aumento na procura de um companheiro_ devido à crises sanitárias, sociais e econômicas gigantescas causadas pelos impactos diretos e indiretos da pandemia. Junto ao aumento na procura de um companheiro nesse período, muitas pessoas perderam seus empregos, e adivinhe o que aconteceu com muitos dos cães e gatos que foram adotados? _Foram devolvidos ou voltaram a ser abandonados_. Logo, **com o intuito de auxiliar as organizações não governamentais que abrigam/resgatam animais resolvemos desenvolver a PetHub**.
+  O início do isolamento social devido à pandemia de COVID-19 gerou um <em>aumento na procura de um companheiro</em> devido à crises sanitárias, sociais e econômicas gigantescas causadas pelos impactos diretos e indiretos da pandemia. Junto ao aumento na procura de um companheiro nesse período, muitas pessoas perderam seus empregos, e adivinhe o que aconteceu com muitos dos cães e gatos que foram adotados? <em>Foram devolvidos ou voltaram a ser abandonados</em>. Logo, <strong>com o intuito de auxiliar as organizações não governamentais que abrigam/resgatam animais resolvemos desenvolver a PetHub</strong>.
 </p>
 <p>
-  A PetHub é uma **central de soluções para as ONGs de animais**. Através da nossa plataforma, usuários poderão navegar entre as organizações listadas, acessando suas informações e/ou propostas, podendo adotar pets, ou contribuir financeiramente visando a continuação do trabalho da organização.
+  A PetHub é uma <strong>central de soluções para as ONGs de animais</strong>. Através da nossa plataforma, usuários poderão navegar entre as organizações listadas, acessando suas informações e/ou propostas, podendo adotar pets, ou contribuir financeiramente visando a continuação do trabalho da organização.
 </p>
 <p>
   Na plataforma, os usuários terão acesso aos dados dos animais abrigados pelas ONG's, as quais terão um perfil para divulgar seu trabalho. Assim, os usuários conseguirão acompanhar a trajetória da organização que estão apoiando.
