@@ -30,10 +30,10 @@
 </h3>
 <ul>
   <li>
-    <a>https://www.uol.com.br/nossa/colunas/coluna-do-veterinario/2021/03/11/abandono-de-animais-bate-recorde-na-pandemia-e-problema-nao-e-so-brasileiro.htm</a>
+    https://www.uol.com.br/nossa/colunas/coluna-do-veterinario/2021/03/11/abandono-de-animais-bate-recorde-na-pandemia-e-problema-nao-e-so-brasileiro.htm
   </li>
   <li>
-    <a>https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2021/04/15/ongs-que-cuidam-de-animais-abandonados-pedem-ajuda.ghtml</a>
+    https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2021/04/15/ongs-que-cuidam-de-animais-abandonados-pedem-ajuda.ghtml
   </li>
 </ul>
 
