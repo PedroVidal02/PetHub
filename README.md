@@ -1,4 +1,4 @@
-<img src="./headerImg.jfif" />
+<img src="./headerImg.png" />
 
 <h2>💡 Proposta</h2>
 <p>
@@ -35,4 +35,3 @@
     <a href="https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2021/04/15/ongs-que-cuidam-de-animais-abandonados-pedem-ajuda.ghtml" target="_blank">ONGs que cuidam de animais abandonados pedem ajuda em Itapetininga</a> - Por TV TEM @ G1 Notícias, 15/04/2021
   </li>
 </ul>
-
