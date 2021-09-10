@@ -14,7 +14,7 @@
   Também haverá a possibilidade de um usuário apoiar uma ONG financeiramente. Vale ressaltar que as contribuições a partir de um determinado valor vão possibilitar ao usuário receber brindes de agradecimento oferecidos pelas ONG's.
 </p>
 <p>
-  Posto isso, a PetHub surgiu da necessidade de centralização das ONGs de animais, pois é notório que há uma dispersão dos assuntos relacionados às ONGs. Portanto, pensamos em um método de unir funcionalidades pertinentes a essas organizações em um único lugar, centralizando assim todas as informações e dando mais visibilidade para causas tão importantes. 
+  Posto isso, a PetHub surgiu da necessidade de centralização das ONGs de animais, pois é notório que há uma dispersão dos assuntos relacionados às ONGs. Portanto, pensamos em um método de unir funcionalidades pertinentes a essas organizações em uma plataforma, centralizando assim todas as informações e dando mais visibilidade para causas tão importantes. 
 </p>
 
 <div align="center">
